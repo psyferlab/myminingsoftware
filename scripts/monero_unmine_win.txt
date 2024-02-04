@@ -1,0 +1,2 @@
+xmrig.exe -a rx -o stratum+ssl://rx.unmineable.com:443 -u XMR:42y7oo2V9jG6aj3VwjPboaXs6hiRNvC45fBLBvbFq6UNaGNaxuXX1uHFAi97yKFAMQKGHuboHRwE96s8YQVWHWNZ8MeokA4.unmineable_psyferpunk -p x 
+pause
